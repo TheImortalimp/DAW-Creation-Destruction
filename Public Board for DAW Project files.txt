@@ -4,8 +4,8 @@ For collaborating on DAW projects like for expample 'REAPER.fm' or 'Cakewalk By 
  Some necesary plugins in those project files might contain payed plugins ,
  but this project board is only for sharing the project files and / or .txt files for perhaps the lyrics of the songs,
  or as musical anotations. 
-Mostly I will be sharing little bits of started projects and anything that gets saved inside those project files, like for example concepts for music creation and / or colaboration.
- This not for setting up shop, this is meant to be a place to share some projects on and let people,
- try use them or only play with the files in their DAW. 
+Mostly I will be sharing little bits of started projects and anything that gets saved inside those project files, like for example concepts for music creation
+ and / or colaboration.
+ This not for setting up shop, this is meant to be a place to share some projects on and let people, try use them or only play with the files in their DAW. 
 If you plan to check out any of these, realize that some of them might have payed plugins from developers that wont work unless you purchase them,
  however i will also be using free plugins as well as payed plugins, and will try to label each file properly!

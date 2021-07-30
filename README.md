@@ -1,6 +1,7 @@
 # DAW-Creation-Destruction
 For sharing and / or colaborating with and on DAW project files
-All VST's will be pointed to the Location: "C:\Program Files\VstPlugins\" in the project files.
+All VST's will be pointed to the Location: "C:\Program Files\VstPlugins\" in the project files. 
+[subfolders might be plugin names/named subfolders so just try use the plugins you get online as they are installed or by copying the file structure after unzipping}
 
 Some links following to get you started!
 
